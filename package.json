@@ -50,7 +50,7 @@
     "react-dom": "https://github.com/mwiencek/react-packages/raw/master/react-dom.tgz",
     "redis": "2.6.0-0",
     "require-reload": "0.2.2",
-    "shell-quote": "1.4.3",
+    "shell-quote": "1.6.1",
     "shelljs": "0.5.3",
     "sliced": "1.0.1",
     "tablesorter": "git://github.com/Mottie/tablesorter.git#430f8c5",
