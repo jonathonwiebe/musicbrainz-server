@@ -28,7 +28,7 @@
     "gulp-streamify": "1.0.2",
     "immutable": "3.7.5",
     "jed": "1.1.0",
-    "jquery": "1.11.2",
+    "jquery": "3.5.0",
     "jquery.browser": "git://github.com/gabceb/jquery-browser-plugin.git#e4a01fd",
     "jsx-control-statements": "3.1.0",
     "knockout": "git://github.com/mwiencek/knockout.git#a8f12df",
